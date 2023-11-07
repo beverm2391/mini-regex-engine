@@ -1,7 +1,6 @@
-# Ben's Regex Engine
+# Ben's Mini Regex Engine
 
 
 ## Completed
 
 ## TODO
-- [ ] make a git repo
